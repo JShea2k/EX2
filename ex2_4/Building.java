@@ -1,3 +1,5 @@
+//PT -- missing javadoc. -2
+
 import java.util.ArrayList;
 public class Building {
     protected String name;
