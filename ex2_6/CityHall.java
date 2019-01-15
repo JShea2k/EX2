@@ -1,3 +1,5 @@
+//PT -- missing javadoc. -2
+
 public class CityHall extends Building {
 
     // Blank city hall constructor
