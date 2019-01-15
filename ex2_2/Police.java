@@ -1,3 +1,5 @@
+//PT -- missing javadoc. -2.
+
 public class Police extends Person implements Employee {
     public enum Role {Patrol, Sargent, Captain, Chief}; 
     private Role role;
