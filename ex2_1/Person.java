@@ -1,3 +1,5 @@
+//PT -- missing javadoc. -2
+
 abstract public class Person {
     protected String name;
     protected int age; 
@@ -25,6 +27,7 @@ abstract public class Person {
 
     // Sets the persons age
     public void setAge(int _age) {
+        //PT -- validate age, phonenumber. -2
         age = _age;
     }
 
